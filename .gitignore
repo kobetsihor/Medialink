@@ -3,3 +3,13 @@
 ################################################################################
 
 /packages
+/Medialink.Dal/bin/Debug
+/Medialink.Dal/obj/Debug
+/Medialink.Lib/bin
+/Medialink.Lib/obj/Debug
+/Medialink.Lib.Tests/bin/Debug
+/Medialink.Lib.Tests/obj/Debug
+/Medialink.Api/bin
+/Medialink.Api/obj
+/Medialink.Api.Tests/bin/Debug
+/Medialink.Api.Tests/obj/Debug
